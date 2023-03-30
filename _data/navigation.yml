@@ -4,10 +4,10 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blog/
-  - title: "Collections"
-    url: /collection-archive/
+  - title: "Research"
+    url: /research/
+  - title: "Experience"
+    url: /Experience/
 
 
   # - title: "About"
